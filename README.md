@@ -28,6 +28,12 @@ This can be printed without supports. If you're using a FDM printer with a 0.4mm
 
 
 
+## Pictures
+
+<img src="docs/macintosh_se_fan_bracket_1.jpg" style="display: inline-block; width: 33%;" alt="Macintosh SE Fan Bracket front" /><img src="docs/macintosh_se_fan_bracket_2.jpg" style="display: inline-block; width: 33%;" alt="Macintosh SE Fan Bracket top" /><img src="docs/macintosh_se_fan_bracket_3.jpg" style="display: inline-block; width: 33%;" alt="Macintosh SE Fan Bracket side" />
+
+
+
 ## License
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>

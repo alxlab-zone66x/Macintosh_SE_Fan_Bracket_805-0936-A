@@ -1,6 +1,6 @@
 [alxlab GitHub Repositories](https://github.com/alxlab-zone66x?tab=repositories)
 
-<img src="docs/macintosh_se_60mm_fan_bracket_model_front.png" style="display: inline-block; max-width: 50%;" alt="Macintosh SE Fan Bracket front" /><img src="docs/macintosh_se_60mm_fan_bracket_model_back.png" style="display: inline-block; max-width: 50%;" alt="Macintosh SE Fan Bracket back"/>
+<img src="docs/macintosh_se_60mm_fan_bracket_model_front.png" style="display: inline-block; width: 50%;" alt="Macintosh SE Fan Bracket front" /><img src="docs/macintosh_se_60mm_fan_bracket_model_back.png" style="display: inline-block; width: 50%;" alt="Macintosh SE Fan Bracket back"/>
 
 # Macintosh SE Fan Bracket 805-0936-A
 

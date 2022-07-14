@@ -10,9 +10,13 @@ This is a fan bracket for the Macintosh SE or SE/30 analog board. It's an altern
 
 The fan is secured using standard fan screws that come with most fans. The bracket is attached to the analog board using 6-32 pan head screws that are commonly used for computer cases and 3.5" hard drives. There's 6 holes to mount it but 4 is more than enough. The fan used should be 12V.
 
+### v1.1 Notes
+
+This revision tapers the air intake of the fan to improve airflow.
 
 
-## Printing Notes
+
+## 3D Printing Notes
 
 This can be printed without supports. If you're using a FDM printer with a 0.4mm nozzle like I am, then I would recommend printing with at least 3 outer/shell layers to give more strength to the screw holes. 
 
